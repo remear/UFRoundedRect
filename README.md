@@ -3,7 +3,7 @@
 NSBezierPath+UFRoundedRect.h is an Objective-C category for drawing a rounded rectangle with the ability to specify a radius for each corner.
 
 ### Installing
-Run ```git clone git@github.com:remear/UFRoundedRect.git```
+Run ```git://github.com/remear/UFRoundedRect.git```
 Copy NSBezierPath+UFRoundedRect.h to your Xcode project
 
 ### Usage
